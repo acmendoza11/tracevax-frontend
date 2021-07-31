@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://lh3.googleusercontent.com/x_SvOd8pAdCnJ7LIWxFkUaxdT0WIRSRXfgh5L6Mq4g87IVdl6FmMCxB8KEOVfu5ZK6QqRJLikcZRJZenQWhjX9TNpt8fCkPhtv3AbUqeiWF1wPU_bPIfVIB_CP3-WuO45T5r1S3IL6xJMqItiGhsiHa3wiiC9ndgHJvBJiyLLYVazHWT1-Z0hJujxzhOzTxmXdpavZQo5paQ6e_YRCWLv6OD2bRUjOVAMz2vArahMNgYUA0DaV2AyLKMmUGn4dT8yhyGnQIzMtJo-MjJ9mttpy3aW3Jfa_KdFE0iCzIjtsH4hY63C06kTSEz_Fcnwt0OIrthAA0iaPfiFBU6bkkQNbjPasFgw8pdAlFoWtOkGSSLm5nabY4HQspcHy1nmcU7vEEmeyTtBmij_8kJPPDuBHN77zMYHJJ8M_tQhXcnG4XRbJw3vZD2l-S2LOvhqcrL4kZNJaxGRTbz27ZsTyAgd9dfwz6Cdn9UyEDkgtN7CHMLP-OH7Up0R2eYXRw7DpH6OXrYcsZYh5pz2hMrWb5xkiIGO12mpRKEcW9mV55gc7vdEQ69RU1xhnrA_kdMkfQRMGeOJk8r-hweDQao4xf8YU61zgk9fOeWjLnJE8XURhogFWAvEzcDqbCo3ihET5Duj-XVJQ05d5SqckB69lXyLeMoa6h-xRXb4yCBGVyjuYIO5OXGfHMxjGA-ItCrB2X1VaEzBjzHsDExLOewKevJXjg=w640-h338-no?authuser=0);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
